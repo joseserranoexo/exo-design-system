@@ -477,7 +477,7 @@ IMG
 
 IMG
 
-[DOWNLOAD TEMPLATE]
+[DOWNLOAD TEMPLATE](http://exolever.quickconnect.to/d/f/479736746932707949)
 
 #### Print Inspiration
 
@@ -493,7 +493,7 @@ IMG
 
 For further information about
 these guidelines, please contact:
-[design@openexo.com]
+design@openexo.com
 
 OpenExO’s visual identity and branding guidelines have been developed
 by Tramontana under the creative direction of Sonia Castillo.
