@@ -30,7 +30,7 @@ They must never be modified or altered. All logo
 elements should be applied with consideration and
 attention to detail.
 
-LOGO IMAGE HERE
+![openexo_logo](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/01.png)
 
 The OpenExO logotype has been created based on
 a set of proportional measures between all of its
@@ -39,7 +39,7 @@ balanced and solid composition. It is strictly
 necessary to respect the proportions described here
 to always ensure visual consistency.
 
-LOGO IMAGE WITH RULES HERE
+![openexo_logo_rules](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/02.png)
 
 #### Exclusion Zones
 
@@ -54,7 +54,7 @@ is equal to the height of the logotype, above, below
 and at both sides. It creates a boundary around the
 logo. At no point should this be interfered with.
 
-EXCLUSION ZONES IMAGE HERE
+![exclusion_zones](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/03.png)
 
 #### Logo Lockup
 
@@ -67,7 +67,7 @@ If you’re creating a composition, please put the
 logo in one of the four corner areas, or center it on
 the page.
 
-LOGO LOCKUP IMAGE HERE
+![openexo_logo_lockup](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/04.png)
 
 #### Logomark Lockup
 
@@ -80,7 +80,7 @@ If you’re creating a composition, please put the
 logo in one of the four corner areas, or center it on
 the page.
 
-LOGOMARK LOCKUP IMAGE HERE
+![openexo_logomark_lockup](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/05.png)
 
 #### Minimum Sizes
 
@@ -98,7 +98,7 @@ The minimum width of the logomark for web
 applications is always set to be 100 px. The minimum
 width of the logomark should be 20 px.
 
-MINIMUM SIZES IMAGE HERE
+![minimum_sizes](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/06.png)
 
 #### Color
 
@@ -125,7 +125,7 @@ context.
 For more palette examples, please refer to the
 following color section.
 
-COLOR EXAMPLES IMAGE HERE
+![openexo_logo_palette](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/07.png)
 
 #### Extended Logo Palette
 
@@ -140,7 +140,7 @@ partial palletes. The logo accepts a wide flexibility
 when it comes to using colours. Use always the full
 range of brand colours.
 
-2ND COLOR EXAMPLES IMAGE HERE
+![openexo_extended_logo_palette](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/08.png)
 
 #### Background
 
@@ -160,7 +160,7 @@ The logo should never place over a busy image,
 whereby the clarity of the logotype could be
 compromised.
 
-BACKGROUND EXAMPLES IMAGE HERE
+![background_examples](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/09.png)
 
 #### Misuses
 
@@ -178,7 +178,7 @@ of the logotype.
 - Do not fill in symbol.
 - Do not change the proportions.
 
-MISUSES IMAGE HERE
+![openexo_misuses](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/10.png)
 
 #### Digital Files
 
@@ -189,6 +189,7 @@ The naming system used was created to easily
 identify all formats. For example:
 
 **openexo_logo_rgb.pdf**
+
 **title_file_color.format**
 
 ##### Title
@@ -211,6 +212,8 @@ identify all formats. For example:
 - .png
 - .jpg
 - etc
+
+![openexo_digital_files](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/11.png)
 
 ### Color Palette
 
@@ -235,11 +238,11 @@ not use more than four brand colours within on design.
 
 ##### Light Colors
 
-LIGHT COLORS IMAGE
+![openexo_primary_light_colors](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/12.png)
 
 ##### Dark Colors
 
-DARK COLORS IMAGE
+![openexo_primary_dark_colors](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/13.png)
 
 #### Secondary  Color Palette
 
@@ -256,15 +259,15 @@ Primary Colours Palette.
 
 ##### Light Colors
 
-IMAGE
+![openexo_secondary_light_colors](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/14.png)
 
 ##### Dark Colors
 
-IMAGE
+![openexo_secondary_dark_colors](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/15.png)
 
-#### Colour Palette Swatches
+#### Color Palette Swatches
 
-IMAGE
+![openexo_palette_swatches](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/16.png)
 
 ### Typography
 
@@ -291,7 +294,7 @@ HK Grotesk is the typography that should be used
 for headlines, subheaders, bullet points and
 body text.
 
-IMAGE
+![openexo_hk_grotesk](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/17.png)
 
 [DOWNLOAD HK GROTESK](http://cargocollective.com/hanken/HK-Grotesk-Open-Source-Font)
 
@@ -303,7 +306,7 @@ and should only be used for body copy, large
 amounts of information, and secondary
 information.
 
-IMAGE
+![openexo_roboto](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/18.png)
 
 [DOWNLOAD ROBOTO](https://fonts.google.com/specimen/Roboto)
 
@@ -320,7 +323,7 @@ improves the legibility and neatness of the
 block of text. Also, use sentence case whenever
 possible.
 
-IMAGE
+![openexo_paragraph_alignment](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/19.png)
 
 ### Visual System & Graphic Elements
 
@@ -336,7 +339,7 @@ simple geometric shapes. Adding or subtracting
 all the shapes can create unique and different
 shapes.
 
-IMAGE
+![openexo_visual_system](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/20.png)
 
 #### Shapes Library
 
@@ -349,7 +352,7 @@ Shapes can be used:
 Illustrations or patterns
 - For creating spatial installations
 
-IMAGE
+![openexo_shapes](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/21.png)
 
 #### Graphic Shapes Examples
 
@@ -358,7 +361,7 @@ range of backgrounds to accompany texts and
 photos.They also help us to create simple visual
 concepts.
 
-IMAGE
+![openexo_shape_examples](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/22.png)
 
 #### Graphic Geometric Shapes
 
@@ -376,7 +379,7 @@ a rounded finish.
 Below are examples of design and development to
 create visual concepts and backgrounds.
 
-IMAGE
+![openexo_geometric_shapes](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/23.png)
 
 #### Visual Concepts & Textures
 
@@ -387,11 +390,11 @@ follow the visual style of the brand:
 
 ##### Ovelapping effect
 
-IMAGE
+![openexo_overlapping_effect](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/24.png)
 
 ##### Blend effect (Adobe Illustrator)
 
-IMAGE
+![openexo_blend_effect](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/25.png)
 
 #### Visual Concepts & Textures
 
@@ -404,7 +407,7 @@ brand and expressing the company’s core values:
 Transformation, Energy, Dynamic, Future and
 Technology.
 
-IMAGE
+![openexo_concepts](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/26.png)
 
 ### Grid & Layout
 
@@ -420,13 +423,13 @@ Basic Grid density layouts is based on thirds.
 Further density of the grid developed form halving
 the thirds.
 
-IMAGE
+![openexo_grid_01](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/27.png)
 
 The Grid density serves as the basis for most
 layouts and applications. It can be stretched
 accordingly for every format.
 
-IMAGE
+![openexo_grid_02](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/28.png)
 
 #### Margins
 
@@ -439,7 +442,7 @@ Margins are constant and apply to all designs with
 graphics, shapes, text and logos in both digital
 and print applications.
 
-IMAGE
+![openexo_margins](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/29.png)
 
 #### Alignment & Placing
 
@@ -448,7 +451,7 @@ depending on the context, whether it’s a poster,
 a web banner, a flyer etc. Our design principles
 provide many options.
 
-IMG
+![openexo_alignment](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/30.png)
 
 #### Layout Examples
 
@@ -457,7 +460,7 @@ depending on the context, whether it’s a poster, a
 banner, a flyer, etc. Our design principles provide
 many options.
 
-IMG
+![openexo_alignment](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/31.png)
 
 ### Design Applications
 
@@ -469,25 +472,25 @@ The App icon always features the logomark, large
 and centerised. The mark is in main colors and
 always sits on light backgrounds.
 
-IMG
+![openexo_icon](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/32.png)
 
 [DOWNLOAD ICONS](http://exolever.quickconnect.to/d/f/464838422452773025)
 
 #### Keynote Template
 
-IMG
+![openexo_keynote](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/33.png)
 
 [DOWNLOAD TEMPLATE](http://exolever.quickconnect.to/d/f/479736746932707949)
 
 #### Print Inspiration
 
-IMG
+![openexo_print_01](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/34.png)
 
-IMG
+![openexo_print_02](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/35.png)
 
-IMG
+![openexo_print_03](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/36.png)
 
-IMG
+![openexo_print_04](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/37.png)
 
 ## Contact details
 
