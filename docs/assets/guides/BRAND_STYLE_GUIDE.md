@@ -2,7 +2,7 @@
 
 Basic instructions for constructing and using the brand and its environment.
 
-You can download the PDF file here: http://exolever.quickconnect.to/d/f/465971618447892617
+[DOWNLOAD PDF FILE](http://exolever.quickconnect.to/d/f/465971618447892617)
 
 ## Introduction
 
