@@ -186,32 +186,7 @@ Here is a list of all the digital files, in all different
 formats, for the OpenExO logo.
 
 The naming system used was created to easily
-identify all formats. For example:
-
-**openexo_logo_rgb.pdf**
-
-**title_file_color.format**
-
-##### Title
-
-- **OpenExO**: openexo
-
-##### Color
-
-- **Pantone**: P
-- **4 Inks**: cmyk
-- **RGB**: rgb
-- **Black/White**: bn
-
-##### Format
-
-- .eps
-- .ai
-- .svg
-- .pdf
-- .png
-- .jpg
-- etc
+identify all formats.
 
 ![openexo_digital_files](https://github.com/joseserranoexo/exo-design-system/blob/master/docs/assets/guides/bran-guidelines-jpg/11.png)
 
