@@ -6,7 +6,7 @@
 
 Display-1 should be used for situations when we need to use big texts, as hero spaces or pages with special content.
 
-IMG
+![display-1](xxx)
 
 ### Headline
 
