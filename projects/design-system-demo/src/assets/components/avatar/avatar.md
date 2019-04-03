@@ -2,57 +2,57 @@
 
 ## Regular Avatar System
 
-IMG
+![regular_avatar](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/01.png)
 
 - If avatar name doesn’t fit it shows ellipsis, and if user hover/long-taps there a Tooltip appears to show the complete name
 
-IMG
+![regular_avatar_tip1](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/02.png)
 
 - Avatar could have an indicator (#TealA400, 8x8 dp) 4 dp after name to see if this user who commented is connected:
 
-IMG
+![regular_avatar_tip2](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/03.png)
 
 - When hover on a certification section in Avatar, it shows  the name of this certification in a Tooltip
 
-IMG
+![regular_avatar_tip3](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/04.png)
 
 
 ## Big Avatar System
 
-IMG
+![big_avatar](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/05.png)
 
 - If avatar name doesn’t fit in one line we should use ellipsis, and if user hover/long-taps there a Tooltip appears to show the complete name.
 In the other hand, user role could take a max of two lines and use ellipsis + tooltip in case doesn’t fit
 
-IMG
+![big_avatar_tip1](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/06.png)
 
 - Avatar could have an indicator (#TealA400, 8x8 dp) 4 dp after name to see if this user who commented is connected:
 
-IMG
+![big_avatar_tip2](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/07.png)
 
 - When hover on a certification section in Avatar, it shows  the name of this certification in a Tooltip
 
-IMG
+![big_avatar_tip3](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/08.png)
 
 
 ## Mini Avatar System
 
-IMG
+![mini_avatar](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/09.png)
 
 - Mini Avatar doesn’t show roles or certificates. It’s been created to take less space than Regular Avatar
 
 - If avatar name doesn’t fit it shows ellipsis, and if user hover/long-taps there a Tooltip appears to show the complete name
 
-IMG
+![mini_avatar_tip1](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/10.png)
 
 
 ## Super Avatar System
 
-IMG
+![super_avatar](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/11.png)
 
 - Super Avatar doesn’t show certificates
 
 - Super Avatar takes a max width for text of 4x (480 dp). If avatar name doesn’t fit in one line we should use ellipsis, and if user hover/long-taps there a Tooltip appears to show the complete name.
 In the other hand, user role could take a max of two lines and use ellipsis + tooltip in case doesn’t fit
 
-IMG
+![super_avatar_tip1](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/avatar/img/12.png)
