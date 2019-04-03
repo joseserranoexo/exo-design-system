@@ -36,7 +36,7 @@ This kind of texts uses to show above a Headline or a Title to give them context
 
 ### Body-1
 
-Regular text por paragraphs P, the most common in platform.
+Regular text por **paragraphs P**, the most common in platform.
 
 ![body-1](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/brand-guides/text-styles-jpg/06.png)
 
