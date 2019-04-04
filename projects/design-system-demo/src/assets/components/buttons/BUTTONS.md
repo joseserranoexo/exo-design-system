@@ -67,7 +67,7 @@
 
 ### Secondary Button with Icon
 
-![secondary_button_with_icon_tip1](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/buttons/img/07.png)
+![secondary_button_with_icon_tip1](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/buttons/img/18.png)
 
 - Copywriting for buttons with icons can’t have more than 12  text characters.
 
