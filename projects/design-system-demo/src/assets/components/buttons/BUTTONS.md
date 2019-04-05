@@ -14,7 +14,7 @@
 
 - If Primary + Secondary buttons don’t fit in one line, we place them one above the other, always locating Primary first.
 
-![primary_button_tip3](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/buttons/img/04.png =119x)
+![primary_button_tip3](https://github.com/joseserranoexo/exo-design-system/blob/master/projects/design-system-demo/src/assets/components/buttons/img/04.png)
 
 - If Primary + Secondary match in the same line with other kind of button, as a file attaching rounded button, and they don’t fin in it, both goes down a line
 
