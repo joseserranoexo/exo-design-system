@@ -32,8 +32,8 @@
 
 - For mobile devices (<600 dp) Snackbars show full-width and fixed at the bottom of the screen. They should have no more than 3 text lines.
 
-![notification_1_tip2](assets/components/snackbars/img/05.png)
+![notification_1_tip5](assets/components/snackbars/img/05.png)
 
 - For some seconds a Snackbar in mobile can live together with another. The newest one shows over the oldest. Shadow of the one at the bottom projects over the one above.
 
-![notification_1_tip3](assets/components/snackbars/img/06.png)
+![notification_1_tip6](assets/components/snackbars/img/06.png)
